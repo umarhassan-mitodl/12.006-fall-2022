@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "728ffe86-d083-ff18-71ad-71d94ca80371"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9dda3b87-b393-4ea5-bc6f-4d7b5567e5e3",
+    "website": "nonlinear-dynamics-chaos"
+  },
+  "course_title": "Nonlinear Dynamics: Chaos",
+  "hide_download": true,
+  "course_description": "This course provides an introduction to nonlinear dynamics and chaos in dissipative systems. The content is structured to be of general interest to undergraduates in science and engineering. The course concentrates on simple models of dynamical systems, mathematical theory underlying their behavior, their relevance to natural phenomena, and methods of data analysis and interpretation. The emphasis is on nonlinear phenomena that may be described by a few variables that evolve with time.",
+  "department_numbers": [
+    "12",
+    "18",
+    "2"
+  ],
+  "extra_course_numbers": "18.353J, 2.050J",
+  "primary_course_number": "12.006J",
+  "course_image_thumbnail": {
+    "content": "66e4e8a9-e350-4a77-9c1f-63324219fe19",
+    "website": "nonlinear-dynamics-chaos"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Projects",
+    "Instructor Insights"
+  ],
+  "site_uid": "464baf39-cad8-4914-a452-4a20489b4746",
+  "site_short_id": "12.006-fall-2022",
+  "site_url_path": "courses/12-006j-nonlinear-dynamics-chaos-fall-2022"
+}
